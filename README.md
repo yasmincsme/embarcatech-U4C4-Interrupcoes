@@ -82,7 +82,6 @@ ninja
 3. **Interação com o Sistema**:
    - Conecte a placa ao computador.
    - Clique em run usando a extensão do raspberry pi pico.
-   - Utilize o teclado para acionar as animações e controlar os LEDs.
 
 
 ## Entrega
