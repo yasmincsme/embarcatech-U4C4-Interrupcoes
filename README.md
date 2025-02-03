@@ -19,7 +19,7 @@
 - [Requisitos do Projeto](#requisitos-do-projeto)
 - [Funcionalidades Implementadas](#funcionalidades-implementadas)
 - [Implementação Técnica](#implementacao-tecnica)
-- [Entrega](#entrega)
+- [Vídeo de Demonstração](#video-de-demonstracao)
 - [Autor](#autor)
 
 ## Enunciado
@@ -83,13 +83,9 @@ ninja
    - Conecte a placa ao computador.
    - Clique em run usando a extensão do raspberry pi pico.
 
+## Vídeo de Demonstração
 
-## Entrega
-
-### 1. Roteiro de Testes
-
-
-### 2. Vídeo de Demonstração
+[Clique aqui](https://youtu.be/N1VxnZ14luk)
 
 ---
 ### Autora:
